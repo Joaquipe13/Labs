@@ -1,0 +1,14 @@
+{
+    "id": "1",
+    "title": "Curso de React",
+    "price": 99.99,
+    "createAt": "2023-09-13T12:34:56.789Z",
+    "topics": [
+      { "id": "101", "name": "Fundamentos de React" },
+      { "id": "102", "name": "Componentes" }
+    ],
+    "levels": [
+      { "id": "201", "name": "Básico" },
+      { "id": "202", "name": "Avanzado" }
+    ]
+  }
